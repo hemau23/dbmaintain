@@ -85,6 +85,7 @@ public class DefaultSQLHandler implements SQLHandler {
         try {
             statement = getConnection(dataSource).createStatement();
             statement.execute(sql);
+            statement.getMoreResults();
 
         } catch (Exception e) {
             throw new DatabaseException("Could not perform database statement: " + sql, e);

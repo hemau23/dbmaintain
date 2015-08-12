@@ -1,1 +1,15 @@
+.svn
 target
+.gradle
+nucleus.iml
+.idea
+**/build
+**/bin
+out
+gradle
+**/.project
+**/.classpath
+**/.settings/
+**/logs/
+**.iml
+/source/nucleus/*.project
