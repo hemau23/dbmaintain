@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dbmaintain/dbmaintain.iml" filepath="$PROJECT_DIR$/dbmaintain/dbmaintain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbmaintain-integrationtest/dbmaintain-integrationtest.iml" filepath="$PROJECT_DIR$/dbmaintain-integrationtest/dbmaintain-integrationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbmaintain-maven-plugin/dbmaintain-maven-plugin.iml" filepath="$PROJECT_DIR$/dbmaintain-maven-plugin/dbmaintain-maven-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbmaintain-parent.iml" filepath="$PROJECT_DIR$/dbmaintain-parent.iml" />
+    </modules>
+  </component>
+</project>
